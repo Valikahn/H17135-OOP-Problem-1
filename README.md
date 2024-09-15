@@ -8,7 +8,7 @@ Before you can start creating projects you must be aware that:
 
 ## Problem 1<br />
 a)	Create an object called Person. A person will have fields: forename, surname, email address, age and mobile number. <br />
-b)	Create a non-argument constructor which will create an object of type Person which will hold the values: <br />
+b)	Create a non-argument constructor which will create an object of type Person which will hold the values: <br /><br />
 Forename:	 Gill<br />
 Surname:	 Blue<br />
 Email:		g.b@gmail.com<br />
