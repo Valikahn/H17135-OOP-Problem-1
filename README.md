@@ -1,4 +1,4 @@
-#Basic Concepts – Tutorial 
+# Basic Concepts – Tutorial 
 
 Before you can start creating projects you must be aware that:
 
@@ -6,7 +6,7 @@ Before you can start creating projects you must be aware that:
 •	The name of the class (physical name) should match the logical name of the class<br />
 •	Each class should be tested with a driver. Remember your main program is only testing the components of the final application.<br />
 
-Problem 1
+## Problem 1<br />
 a)	Create an object called Person. A person will have fields: forename, surname, email address, age and mobile number. <br />
 b)	Create a non-argument constructor which will create an object of type Person which will hold the values: <br />
 Forename:	 Gill<br />
@@ -15,7 +15,7 @@ Email:		g.b@gmail.com<br />
 Age:		22<br />
 Mobile:	0798783022<br />
 
-NOTE: adding data within a non-argument constructor is usually very rare and stupid!
+NOTE: adding data within a non-argument constructor is usually very rare and stupid!<br />
 
 c)	Create a constructor which asks for forename and surname only<br />
 d)	Create a constructor which asks for forename, surname and age only<br />
